@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="515a220d-86d5-4e6f-a4cd-3ba0a39b85a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/10_diagonal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/11_Draw.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/12_Restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/1_place marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/2_GamePlay.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/3_row1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/4_row2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/5_row3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/6_col1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/7_col2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/8_col3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScreenShots of GamePlay/9_diagonal1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assign4/META-INF/assign4.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assign4/View/tictactoe$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assign4/View/tictactoe$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assign4/View/tictactoe$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assign4/View/tictactoe$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/assign4/View/tictactoe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assign4/View/tictactoe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/tictactoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/tictactoe.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,10 +16,15 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/View/tictactoe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="136" column="53" selection-start-line="136" selection-start-column="53" selection-end-line="136" selection-end-column="53" />
+            <state relative-caret-position="518">
+              <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#tictactoe#0;class#tictactoe#0" />
+                <element signature="method#buttonAction#0;class#tictactoe#0" />
+                <element signature="method#disableButtons#0;class#tictactoe#0" />
+                <element signature="method#restartAction#0;class#tictactoe#0" />
+                <element signature="method#checkWinner#0;class#tictactoe#0" />
                 <element signature="method#checkDraw#0;class#tictactoe#0" />
                 <element signature="e#6016#6017#0" expanded="true" />
                 <element signature="e#6059#6060#0" expanded="true" />
@@ -144,8 +131,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,7 +192,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27231467" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28517398" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -251,6 +238,31 @@
       </provider>
     </entry>
     <entry file="file://D:/../5.fall 2017 (sem5)/ooad/labs/hashir minesweeper (all phases complete)/Lab 10/MineSweeper/src/MainFrame.java" />
+    <entry file="file://D:/FAST/8.spring 2018 (sem8)/Advanced Programming/assignments/Assignment 4 (TicTacToe- SWING)/src/View/tictactoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/tictactoe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="115" column="26" selection-start-line="115" selection-start-column="26" selection-end-line="115" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#tictactoe#0;class#tictactoe#0" />
+            <element signature="method#buttonAction#0;class#tictactoe#0" />
+            <element signature="method#disableButtons#0;class#tictactoe#0" />
+            <element signature="method#restartAction#0;class#tictactoe#0" />
+            <element signature="method#checkWinner#0;class#tictactoe#0" />
+            <element signature="method#checkDraw#0;class#tictactoe#0" />
+            <element signature="e#6016#6017#0" expanded="true" />
+            <element signature="e#6059#6060#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/View/tictactoe.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
@@ -272,26 +284,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/FAST/8.spring 2018 (sem8)/Advanced Programming/assignments/Assignment 4 (TicTacToe- SWING)/src/View/tictactoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="124" column="53" selection-start-line="124" selection-start-column="53" selection-end-line="124" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/View/tictactoe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="136" column="53" selection-start-line="136" selection-start-column="53" selection-end-line="136" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#checkDraw#0;class#tictactoe#0" />
-            <element signature="e#6016#6017#0" expanded="true" />
-            <element signature="e#6059#6060#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
